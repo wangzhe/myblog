@@ -86,6 +86,6 @@ exclude_generator:
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: github
-  repo: https://github.com/wangzhe/wangzhe.github.io.git
+  repo: git@github.com:wangzhe/wangzhe.github.io.git
   branch: master
   message: "Jack's House updated: {{ now('YYYY-MM-DD HH:mm:ss') }})"
