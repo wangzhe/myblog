@@ -67,6 +67,97 @@
       <div class="outer">
         <section id="main">
   
+    <article id="post-wechat" class="article article-type-post" itemscope itemprop="blogPost">
+  <div class="article-meta">
+    <a href="/2014/12/31/wechat/" class="article-date">
+  <time datetime="2014-12-31T10:46:41.000Z" itemprop="datePublished">Dec 31 2014</time>
+</a>
+    
+  <div class="article-category">
+    <a class="article-category-link" href="/categories/Diary/">Diary</a>
+  </div>
+
+  </div>
+  <div class="article-inner">
+    
+    
+      <header class="article-header">
+        
+  
+    <h1 itemprop="name">
+      <a class="article-title" href="/2014/12/31/wechat/">wechat</a>
+    </h1>
+  
+
+      </header>
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+        <p>开始一些关于微信方面的研究。其实很早就做过，只是这次又捡起来。对这部分的研究起源于那个需求，就是大事件记。作为数据方面的尝试，这是我第一次搞大事件。我希望以此为模型开始不断推演未来数据分析所需要的更方面东西。无论是业务上的，算法上的，应用上的，包括组织形式上的。ok，闲话少说，关于那个的总结以后再写，先说微信。</p>
+<p>微信公共平台确实是个对于小商家和小需求型交互非常好的地方。在我看来，他的最大特点就是包含了自然语言交互，和基本的按钮交互，两种功能。一般认为，手机移动端的设计难点就是小小的屏幕如何放很多的交互是一个难题。对于微信公共平台来说，3个按钮（包括附属菜单）组成的基本交互，解决了最急切交互的需求。剩下的交给了自然语言或者有特定标示的自然语言，是非常好的方式，符合人们对于数据需求的认知。</p>
+<p>微信包括了企业号，服务号，订阅号。企业号就不说了，服务号理论上比订阅号要高级一些，因为可以支持更多的高级API接口，最最关键的是，可以支持微信支付。更适用于企业用户，而订阅号则没有这个功能。订阅号更多的是适应于自媒体，因为他最大的优势是每天可以发送1条群发消息，这点远好于服务号，每月4条。我的这个查询大事件，想来每次出现大事件的时候，也会群发给我的所有订阅者，因此，我考虑订阅号对我来讲更加有意义，虽然我不能说每天都发生大事件，但一个月有超过4次大事件，在这个快速发展的互联网时代，还是非常有可能。</p>
+<p>说到服务API开发，我觉得这方面以前拿ruby写过代码，逻辑上没什么难的。现在就是我的python水平有点垃圾，之前jira－soap的服务，是看别人的python库，而且公司用的con和jira版本是在太低，soap的协议，不支持rest，新的nodejs都没有，哎没办法，上吧。写一个python微信的服务</p>
+
+      
+    </div>
+    <footer class="article-footer">
+      <a data-url="http://wangzhe.github.io/2014/12/31/wechat/" data-id="oxjc1dncf3fwq8cz" class="article-share-link">Share</a>
+      
+      
+  <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/tech/">tech</a></li></ul>
+
+    </footer>
+  </div>
+  
+</article>
+
+
+  
+    <article id="post-build-testing-team" class="article article-type-post" itemscope itemprop="blogPost">
+  <div class="article-meta">
+    <a href="/2014/12/23/build-testing-team/" class="article-date">
+  <time datetime="2014-12-23T07:44:29.000Z" itemprop="datePublished">Dec 23 2014</time>
+</a>
+    
+  <div class="article-category">
+    <a class="article-category-link" href="/categories/Diary/">Diary</a>
+  </div>
+
+  </div>
+  <div class="article-inner">
+    
+    
+      <header class="article-header">
+        
+  
+    <h1 itemprop="name">
+      <a class="article-title" href="/2014/12/23/build-testing-team/">build_testing_team</a>
+    </h1>
+  
+
+      </header>
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+        <p>对于测试团队管理是个循序渐进的过程，传统的测试团队，尤其是从大公司来的，比较习惯于一体化的测试团队。所有测试人员和开发相对立，测试人员有一套独立的考核体系（经常是发现bug多，就越好）。但是这样的方式，实际上是在一个团队中树立了一层层的壁垒和对立关系，这与产品和运营的对立，技术和产品的对立，测试和技术的对立一样。所以作为管理者，作为新时代的团队管理模式，是无论如何要消除这种壁垒的。而这个过程中面对的第一个问题，就是测试团队管理者的思想问题。</p>
+<p>要解决这样的问题其实并非容易，我做的方法就是尝试分开，首先，如果你想把一个群人分开，就要去让他们地理上分开。于是把测试团队分开成两个小块儿，让一块儿的测试团队和项目组坐在一起。并不是完全，而是有一点点间隔的坐在一起，这样开始的时候会好接受学多。然后再通过给测试团队的压力，这种压力，往往可以做成多头压力，即让不同的产品在同一时间发布和讨论需求，往往这个时候管理者一个人很难做到兼顾，所以渐渐形成有人带劳的事实。第三个就是交流，站会scrum里面交流的一个最主要形式之一，将站会和某个特定测试人员联系在一起，可以大大增加该测试人员的归属感。</p>
+<p>无论如何，这些尝试都不是为了分解测试团队，而是让这个团队更加的高效，这本身慢慢也希望测试团度的管理者能够学习和理解</p>
+
+      
+    </div>
+    <footer class="article-footer">
+      <a data-url="http://wangzhe.github.io/2014/12/23/build-testing-team/" data-id="age42gr1738i8cce" class="article-share-link">Share</a>
+      
+      
+  <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/mgnt/">mgnt</a></li></ul>
+
+    </footer>
+  </div>
+  
+</article>
+
+
+  
     <article id="post-python-misc" class="article article-type-post" itemscope itemprop="blogPost">
   <div class="article-meta">
     <a href="/2014/12/22/python-misc/" class="article-date">
@@ -95,7 +186,9 @@
       
         <p>研究python，发现最大的问题就是中英文的转换，实在是太郁闷了，研究了好久。最主要的还是出在python的encode和decode上面<br><a href="http://www.jb51.net/article/17560.htm" target="_blank" rel="external">http://www.jb51.net/article/17560.htm</a><br>这篇文章不错，基本上把需要的内容都解释的很清楚了。</p>
 <p>在别人代码的基础上做了些修改，现在已经基本可以用了。</p>
-<p>这个是该出来的加入的内容<br>python ./jira -s <a href="http://bug.xingshulin.com" target="_blank" rel="external">http://bug.xingshulin.com</a> -u ＊＊＊＊ -p ＊＊＊＊ cat JCTP-9</p>
+<p>这个是该出来的加入的内容<br>python ./jira -s <a href="http://bug.xingshulin.com" target="_blank" rel="external">http://bug.xingshulin.com</a> -u ＊＊＊＊ -p ＊＊＊＊ cat JCTP-9<br>python ./jira -s <a href="http://bug.xingshulin.com" target="_blank" rel="external">http://bug.xingshulin.com</a> -u ＊＊＊＊ -p ＊＊＊＊ comment JCTP-9 “let do something fantastic”<br>python ./jira -s <a href="http://bug.xingshulin.com" target="_blank" rel="external">http://bug.xingshulin.com</a> -u ＊＊＊＊ -p ＊＊＊＊ create -s “this is summary2” -d “nothing special” -p JCTP -t “运维事故” -a “wangzhe” -f “customfield_10200:20/12/14”</p>
+<p>有个挺tricky的地方是要把jira里面的时间传输格式进行调整，默认的是d/MMM/yy，但是因为python对中文的支持问题，所以需要被调整成dd/mm/yy</p>
+<p>{‘priority’: 3, ‘description’: None, ‘customFieldValues’: [[{‘values’: [[‘2014-12-23’]], ‘customfieldId’: ‘customfield_10200’}]], ‘summary’: ‘Test issue using all available defaults’, ‘project’: ‘JCTP’, ‘assignee’: ‘wangzhe’, ‘type’: 7}<br>{‘priority’: 3, ‘description’: None, ‘customFieldValues’: [[{‘values’: [[‘2014-12-22’]], ‘customfieldId’: ‘customfield_10200’}]], ‘summary’: ‘this is summary’, ‘project’: ‘JCTP’, ‘assignee’: ‘wangzhe’, ‘type’: 6}</p>
 
       
     </div>
@@ -210,7 +303,7 @@
   <div class="widget-wrap">
     <h3 class="widget-title">Categories</h3>
     <div class="widget">
-      <ul class="category-list"><li class="category-list-item"><a class="category-list-link" href="/categories/Diary/">Diary</a><span class="category-list-count">4</span></li></ul>
+      <ul class="category-list"><li class="category-list-item"><a class="category-list-link" href="/categories/Diary/">Diary</a><span class="category-list-count">6</span></li></ul>
     </div>
   </div>
 
@@ -219,7 +312,7 @@
   <div class="widget-wrap">
     <h3 class="widget-title">Tags</h3>
     <div class="widget">
-      <ul class="tag-list"><li class="tag-list-item"><a class="tag-list-link" href="/tags/career/">career</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/python/">python</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/tech/">tech</a><span class="tag-list-count">3</span></li></ul>
+      <ul class="tag-list"><li class="tag-list-item"><a class="tag-list-link" href="/tags/career/">career</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/mgnt/">mgnt</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/python/">python</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/tech/">tech</a><span class="tag-list-count">4</span></li></ul>
     </div>
   </div>
 
@@ -228,7 +321,7 @@
   <div class="widget-wrap">
     <h3 class="widget-title">Tag Cloud</h3>
     <div class="widget tagcloud">
-      <a href="/tags/Games/" style="font-size: 10.00px;">Games</a><a href="/tags/PS3/" style="font-size: 10.00px;">PS3</a><a href="/tags/career/" style="font-size: 15.00px;">career</a><a href="/tags/python/" style="font-size: 15.00px;">python</a><a href="/tags/tech/" style="font-size: 20.00px;">tech</a>
+      <a href="/tags/Games/" style="font-size: 10.00px;">Games</a><a href="/tags/PS3/" style="font-size: 10.00px;">PS3</a><a href="/tags/career/" style="font-size: 15.00px;">career</a><a href="/tags/mgnt/" style="font-size: 15.00px;">mgnt</a><a href="/tags/python/" style="font-size: 15.00px;">python</a><a href="/tags/tech/" style="font-size: 20.00px;">tech</a>
     </div>
   </div>
 
@@ -237,7 +330,7 @@
   <div class="widget-wrap">
     <h3 class="widget-title">Archives</h3>
     <div class="widget">
-      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2014/12/">December 2014</a><span class="archive-list-count">3</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2014/11/">November 2014</a><span class="archive-list-count">2</span></li></ul>
+      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2014/12/">December 2014</a><span class="archive-list-count">5</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2014/11/">November 2014</a><span class="archive-list-count">2</span></li></ul>
     </div>
   </div>
 
@@ -249,6 +342,14 @@
       <ul>
         
           <li>
+            <a href="/2014/12/31/wechat/">wechat</a>
+          </li>
+        
+          <li>
+            <a href="/2014/12/23/build-testing-team/">build_testing_team</a>
+          </li>
+        
+          <li>
             <a href="/2014/12/22/python-misc/">python_misc</a>
           </li>
         
@@ -258,14 +359,6 @@
         
           <li>
             <a href="/2014/12/08/positioning/">positioning</a>
-          </li>
-        
-          <li>
-            <a href="/2014/11/27/today/">today</a>
-          </li>
-        
-          <li>
-            <a href="/2014/11/27/hello-world/">Hello World</a>
           </li>
         
       </ul>
@@ -280,7 +373,7 @@
   
   <div class="outer">
     <div id="footer-info" class="inner">
-      &copy; 2014 Jack Wang<br>
+      &copy; 2015 Jack Wang<br>
       Powered by <a href="http://hexo.io/" target="_blank">Hexo</a>
     </div>
   </div>
