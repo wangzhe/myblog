@@ -12,20 +12,22 @@ tags:
 
 1）Python DB，超简单的东西，Djangle框架和RoR框架一样，基本上对于简单应用就是记住几行命令
 
-	在Models里面建立好class
+在Models里面建立好class
 
-	在命令行里面运行，并生成migration脚本
+在命令行里面运行，并生成migration脚本
 
-```
+```bash
 python manage.py makemigrations
 ```
-	在命令行里面运行，并生成数据库的内容
 
-```
+在命令行里面运行，并生成数据库的内容
+
+```bash
 python manage.py syncdb
 ```
-	在view里面用class直接产生新的obj，然后obj.save()就可以了
-	
+
+在view里面用class直接产生新的obj，然后obj.save()就可以了
+
 2）一个微信的小东西
 ngrok用来做本地调试，却是好用截个图，剩下的自己查吧
 
