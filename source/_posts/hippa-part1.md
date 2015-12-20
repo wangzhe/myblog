@@ -9,7 +9,7 @@ tags:
 
 ### 第一部分：什么是HIPAA
 特别词汇说明（terms）：
-Portability：这里特别说明，根据wiki在社会安全（social security）方面的解释，所谓携带型是保存（preserve）、维护（maintain）和交换（transfer）三个词的合意总称，因为很没有中文对应意思，所以特此解释，后面还是翻译成可携带［1］。
+Portability：这里特别说明，根据wiki在社会保险（social security）方面的解释，所谓携带型是保存（preserve）、维护（maintain）和交换（transfer）三个词的合意总称，因为很没有中文对应意思，所以特此解释，后面还是翻译成可携带［1］。
 
 HIPAA，全称Health Insurance Portability and Accountability Act. 是美国关于健康保险的携带和责任的法案。HIPAA的提出，旨在改革健康医疗产业，降低费用，简化管理过程和负担，增强隐私保护和个人信息安全保护。可以说，HIPAA是美国健康卫生领域的基础大法，也是整个相关后续政策的基石。自从1996年HIPAA被正式提出以后，法案经历了5次比较大的更新，分别对医疗卫生领域在保险和医疗管理方面的工作，进行了一系列逐渐细致化和现代化的制约。
 
