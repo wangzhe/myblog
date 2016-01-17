@@ -13,24 +13,57 @@ tags:
 我的学习就从这里开始（我要说明的是，这不是一片摘抄，而是一个对比，自己也曾经参与了大量产品设计方面的实际工作，所以感觉这样的对比可能更佳有效）下面是我做的关于Design Thinking方案的幻灯片，和大家一起分享
 
 {% asset_img 幻灯片01.jpg "slide01" %}
+
 {% asset_img 幻灯片02.jpg "slide02" %}
+
 {% asset_img 幻灯片03.jpg "slide03" %}
+
 {% asset_img 幻灯片04.jpg "slide04" %}
+
 {% asset_img 幻灯片05.jpg "slide05" %}
+
 {% asset_img 幻灯片06.jpg "slide06" %}
+
 {% asset_img 幻灯片07.jpg "slide07" %}
+
 {% asset_img 幻灯片08.jpg "slide08" %}
+
 {% asset_img 幻灯片09.jpg "slide09" %}
+
 {% asset_img 幻灯片10.jpg "slide10" %}
+
 {% asset_img 幻灯片11.jpg "slide11" %}
+
 {% asset_img 幻灯片12.jpg "slide12" %}
+
 {% asset_img 幻灯片13.jpg "slide13" %}
+
 {% asset_img 幻灯片14.jpg "slide14" %}
+
 {% asset_img 幻灯片15.jpg "slide15" %}
+
 {% asset_img 幻灯片16.jpg "slide16" %}
+
 {% asset_img 幻灯片17.jpg "slide17" %}
+
 {% asset_img 幻灯片18.jpg "slide18" %}
+
 {% asset_img 幻灯片19.jpg "slide19" %}
+
 {% asset_img 幻灯片20.jpg "slide20" %}
+
 {% asset_img 幻灯片21.jpg "slide21" %}
+
 {% asset_img 幻灯片22.jpg "slide22" %}
+
+{% asset_img 幻灯片23.jpg "slide23" %}
+
+{% asset_img 幻灯片24.jpg "slide24" %}
+
+{% asset_img 幻灯片25.jpg "slide25" %}
+
+{% asset_img 幻灯片26.jpg "slide26" %}
+
+{% asset_img 幻灯片27.jpg "slide27" %}
+
+{% asset_img 幻灯片28.jpg "slide28" %}
