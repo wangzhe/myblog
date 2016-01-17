@@ -12,4 +12,7 @@ tags:
 
 我的学习就从这里开始（我要说明的是，这不是一片摘抄，而是一个对比，自己也曾经参与了大量产品设计方面的实际工作，所以感觉这样的对比可能更佳有效）下面是我做的关于Design Thinking方案的幻灯片，和大家一起分享
 
-
+{% asset_img 幻灯片01.jpg "slide001" %}
+{% asset_img 幻灯片02.jpg "slide002" %}
+{% asset_img 幻灯片03.jpg "slide003" %}
+{% asset_img 幻灯片04.jpg "slide004" %}
