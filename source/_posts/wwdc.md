@@ -1,7 +1,7 @@
 title: 品味苹果的盛宴，移动医疗能尝到什么？
 date: 2015-07-03 11:40:28
 categories:
-- article
+- Business Strategy
 tags:
 - tech
 - med

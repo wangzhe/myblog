@@ -1,7 +1,7 @@
 title: 为什么说技术颠覆传统医疗
 date: 2015-05-19 20:26:40
 categories:
-- Diary
+- Business Strategy
 tags:
 - tech
 ---

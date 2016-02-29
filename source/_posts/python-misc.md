@@ -1,7 +1,7 @@
 title: python_misc
 date: 2014-12-22 18:29:22
 categories:
-- Diary
+- Technology
 tags:
 - tech
 - python

@@ -1,7 +1,7 @@
 title: ocr
 date: 2014-12-19 10:51:30
 categories:
-- Diary
+- Technology
 tags:
 - tech
 ---

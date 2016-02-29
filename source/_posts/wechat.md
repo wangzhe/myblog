@@ -1,7 +1,7 @@
 title: wechat
 date: 2014-12-31 18:46:41
 categories:
-- Diary
+- Technology
 tags:
 - tech
 ---

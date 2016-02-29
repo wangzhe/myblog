@@ -1,7 +1,7 @@
 title: 关于HIPAA
 date: 2015-12-17 14:09:48
 categories:
-- Diary
+- Technology
 tags:
 - Security
 ---

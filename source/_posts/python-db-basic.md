@@ -1,7 +1,7 @@
 title: python_db_basic
 date: 2015-01-16 18:58:15
 categories:
-- Diary
+- Technology
 tags:
 - tech
 - python

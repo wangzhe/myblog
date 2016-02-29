@@ -1,7 +1,7 @@
 title: 关于Collection和Set
 date: 2015-08-29 07:39:44
 categories:
-- Diary
+- Technology
 tags:
 - math
 ---

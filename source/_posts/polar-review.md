@@ -1,7 +1,7 @@
 title: 回顾北极星之病毒增长
 date: 2015-07-08 00:38:42
 categories:
-- Diary
+- Business Strategy
 tags:
 - tech
 - python

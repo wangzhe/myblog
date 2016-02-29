@@ -1,9 +1,10 @@
 title: 指数型组织EXO读后感
 date: 2016-02-26 21:26:01
 categories:
-- Diary
+- Management
 tags:
 - book
+- mgnt
 ---
 摘要：
 

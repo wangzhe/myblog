@@ -1,7 +1,7 @@
 title: 代码也是一种诗
 date: 2015-06-01 18:39:25
 categories:
-- Diary
+- Technology
 tags:
 - tech
 - python

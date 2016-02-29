@@ -1,7 +1,7 @@
 title: Hello World
 date: 2014-12-01 10:51:30
 categories:
-- Diary
+- Technology
 tags:
 - tech
 ---
