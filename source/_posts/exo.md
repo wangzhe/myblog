@@ -33,7 +33,7 @@ tags:
 
 讲完商业思路的主旨，下面就是这本书让我非常欣赏的部分，就是将如果要实现“富足”销售，企业需要具备的几个基本要素。书中简化为了两个词，SCALE和IDEAS，这也是这本书非常值得推荐的原因。
 
-{% asset_img kernel.jpg "SCALE和IDEAS" %}
+{% asset_img kernel.JPG "SCALE和IDEAS" %}
 
 简单讲几个，其他的大家可以看书。书中认为，SCALE是外部属性。
 
