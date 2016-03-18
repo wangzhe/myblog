@@ -3,7 +3,7 @@ date: 2015-12-17 14:09:48
 categories:
 - Technology
 tags:
-- Security
+- security
 ---
 最近因为工作的关系，必须系统的学习一下HIPAA，把学习结果给大家分享一下，如下：
 
