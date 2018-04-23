@@ -34,6 +34,8 @@ filename_case: 0
 render_drafts: false
 post_asset_folder: true
 relative_link: false
+mathjax:
+    enable: true
 highlight:
   enable: true
   line_number: true

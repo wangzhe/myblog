@@ -10,6 +10,6 @@ tags:
 https://github.com/gitbrent/PptxGenJS
 
 内容详实，联系了一下，值得参考。把内容copy出来，变成html即可
-{% asset_link test.h "Demo Link" %}
+[Demo Link](test.h)	
 
 注意，这里好像有个问题是关于调用pptxgen.bundle.js，这个貌似要翻墙才可以，后续有空把js文件补进去
