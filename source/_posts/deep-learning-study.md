@@ -4,6 +4,7 @@ categories:
 - Technology
 tags:
 - tech
+- deeplearning
 mathjax: true
 ---
 
