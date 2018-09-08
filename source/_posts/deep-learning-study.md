@@ -12,6 +12,7 @@ mathjax: true
 
 [在hexo博客中使用Mathjax写LaTex数学公式"](https://blog.csdn.net/sherlockzoom/article/details/43835613)
 [如何在 hexo 中支持 Mathjax？](https://blog.csdn.net/u014630987/article/details/78670258)
+[描述在 hexo 中使用矩阵的方法](https://blog.csdn.net/Mage_EE/article/details/75317083)
 
 另外，按照Hexo文档上写的，理论上Hexo-math应该已经支持MathJax了，但是似乎用起来有点问题，不知道是hexo文档的错，还是我自己那个地方配置有错，以后找时间在研究吧。地址如下：
 https://github.com/hexojs/hexo-math
