@@ -31,3 +31,9 @@ keras.backend.argmax(x, axis=-1)
 keras.backend.max(x, axis=None, keepdims=False)
 ```
 
+np也有一些特殊的方法，比较不常见和不容易理解，下面np.eye就是把一个Y变成C个为一组的one-hot
+```Python
+def convert_to_one_hot(Y, C):
+    Y = np.eye(C)[Y.reshape(-1)]
+    return Y
+```
