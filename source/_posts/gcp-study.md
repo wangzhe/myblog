@@ -1,4 +1,4 @@
-title: GCP study
+title: GCP搭建serverless
 date: 2019-12-02 20:35:12
 categories:
 - Technology
