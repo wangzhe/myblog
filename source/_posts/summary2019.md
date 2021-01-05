@@ -2,7 +2,6 @@ title: 留给2019
 date: 2020-01-06 20:46:22
 categories:
 - Business Strategy
-- Management
 tags:
 - tech
 - mgnt
