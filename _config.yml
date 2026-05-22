@@ -91,4 +91,4 @@ deploy:
   type: git
   repo: git@github.com:wangzhe/wangzhe.github.io.git
   branch: master
-  message: "Jack's House updated: {{ now('YYYY-MM-DD HH:mm:ss') }})"
+  message: "Jack's House updated: {{ now('YYYY-MM-DD HH:mm:ss') }}"
